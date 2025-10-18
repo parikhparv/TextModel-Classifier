@@ -1,0 +1,102 @@
+____________________________________________________________
+
+Ban or sale of TikTok upheld
+
+Author: Dou, Eva; Harwell, Drew; LimaStrong, Cristiano
+
+https://www.proquest.com/newspapers/ban-sale-tiktok-upheld/docview/3141608203/se-2?accountid=9703
+
+Abstract: None available.
+
+Links: https://search.library.brandeis.edu/openurl/01BRAND_INST/01BRAND_INST:BRAND??url_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:journal&amp;genre=article&amp;sid=ProQ:ProQ%3Awashingtonpost&amp;atitle=Ban+or+sale+of+TikTok+upheld&amp;title=The+Washington+Post&amp;issn=01908286&amp;date=2024-12-07&amp;volume=&amp;issue=&amp;spage=A.1&amp;au=Dou%2C+Eva%3BHarwell%2C+Drew%3BLimaStrong%2C+Cristiano&amp;isbn=&amp;jtitle=The+Washington+Post&amp;btitle=&amp;rft_id=info:eric/&amp;rft_id=info:doi/
+
+Full text: Challenge of law rejected on appeal
+High court petition likely as Jan. 19 deadline looms A federal appeals court has turned away a challenge to a fast-approaching nationwide ban of the short-video app TikTok unless it divests from Chinese ownership, placing national security before free-speech concerns and bringing the app's 170 million U.S. users closer to losing access to the wildly popular platform.
+The U.S. Court of Appeals for the D.C. Circuit on Friday sided with the Justice Department, which argued that the U.S. government has the authority to ban TikTok based on the national security risk that the app could be pressured by the Chinese government to expose Americans' data or influence what they see. TikTok's parent, ByteDance, is based in China.
+TikTok had argued to the three-judge panel, unsuccessfully, that the ban must be struck down for infringement on the free-speech rights of the app's users and owners under the First Amendment.
+"The Government has offered persuasive evidence demonstrating that the Act is narrowly tailored to protect national security," the court wrote in its opinion.
+TikTok is expected to ask the Supreme Court to take up the case before the sale deadline, Jan. 19, or to first request that all the judges on the appeals court review the panel's decision.
+"The Supreme Court has an established historical record of protecting Americans' right to free speech and we expect they will do just that on this important constitutional issue," TikTok spokesperson Michael Hughes said in a statement. He criticized the ban-or-sale law, saying it was based on "inaccurate" information and was "resulting in the outright censorship of the American people."
+Attorney General Merrick Garland praised the decision as "an important step in blocking the Chinese government from weaponizing TikTok to collect sensitive information about millions of Americans, to covertly manipulate the content delivered to American audiences, and to undermine our national security."
+The appeals court on Friday said years-long bipartisan investigations into the app, and the government's willingness to consider TikTok's alternatives, weighed in favor of the law.
+"The First Amendment exists to protect free speech in the United States," Judge Douglas Ginsburg wrote for a three-judge panel. "Here the Government acted solely to protect that freedom from a foreign adversary nation."
+However, the judges said they rejected the government's "ambitious argument" that the law did not "implicate the First Amendment at all," saying that it would impose a "disproportionate burden on TikTok, an entity engaged in expressive activity." The government had suggested that TikTok's ownership by a foreign company left it without First Amendment rights, despite it having roughly 170 million U.S. accounts.
+The decision sets up a potential showdown with President-elect Donald Trump. Having backed a ban during his first term in the White House, he is now expected to try to halt it, people familiar with his views on the matter told The Washington Post in early November, speaking on the condition of anonymity to discuss private conversations.
+"I am optimistic that President Trump will facilitate an American takeover of TikTok to allow its continued use in the United States and I look forward to welcoming the app in America under new ownership," said Rep. John Moolenaar (R-Michigan), the chairman of the House Select Committee on the Chinese Communist Party.
+The White House and Trump's team did not respond to requests for comment.
+"This went about as badly for TikTok as it could've gone," said Alan Rozenshtein, a former national security adviser to the Justice Department. "I see no reason to think the Supreme Court will rule any differently than the DC circuit did." Given that legal situation, he said, Trump could take any of three actions to help TikTok fend off the ban: persuading Congress to repeal the law, directing his new attorney general not to enforce it, or declaring that ByteDance has satisfied the statute by performing a "qualified divestiture" of TikTok.
+The court decision drew praise from U.S. security hawks Friday, while free-speech advocates expressed deep dismay.
+Craig Singleton, senior China fellow at the nonpartisan Foundation for Defense of Democracies and a former U.S. diplomat, called it a "warning shot to foreign companies operating in sensitive sectors."
+"This ruling isn't just about TikTok - it's a bellwether for how the U.S. will confront tech threats from authoritarian regimes," he said.
+Jameel Jaffer, executive director of the Knight First Amendment Institute, criticized the ruling as "hugely consequential for free speech" and called it "disturbing" that the court would support such curbs on speech based on an argument of protecting Americans from foreign disinformation.
+"Foreign disinformation is a very real thing. It can be a very real threat to the integrity of public discourse in this country," he said. "But to jump from those propositions to 'And therefore the government has a compelling interest in suppressing what it determines to be foreign lies' - I think that's a really big leap."
+Anupam Chander, a Georgetown University law professor, called it "clever framing by the government" to require TikTok to sell to new owners instead of banning it outright, which the court saw as a lower burden on speech.
+"This decision will be Exhibit 1 in the tech cold war," he said. "It adopts the U.S. government's framing of Chinese business as representing a 'hybrid commercial threat,' making them inherently subject to sanction."
+Meta's stock briefly hit an all-time high Friday and was up 2.5 percent midafternoon. The company's Facebook and Instagram rival TikTok for social media attention, and in 2022 it paid to orchestrate a media and lobbying campaign portraying TikTok as "the real threat."
+The D.C. Circuit's 65-page judgment was unanimous and joined by judges from across the ideological spectrum. The opinion was written by Ginsburg, a nominee of Ronald Reagan, and joined by Chief Judge Sri Srinivasan, an Obama nominee, and Judge Neomi Rao, a Trump nominee. Srinivasan wrote separately to say he agreed that the law does not violate the First Amendment but for different reasons.
+TikTok has the opportunity to ask the D.C. Circuit to rehear the case sitting with a full complement of judges or go directly the Supreme Court. Because the three-judge panel was unanimous, and the opinion joined by judges with different ideological backgrounds, it is less likely that the full D.C. Circuit would vote to review the decision.
+The legislation, known as the Protecting Americans from Foreign Adversary Controlled Applications Act, was signed into law by President Joe Biden in April, shortly after it was passed by Congress as part of a sprawling package offering aid to Israel, Ukraine and Taiwan.
+The law called TikTok an application controlled by a "foreign adversary" and gave ByteDance roughly nine months to sell the platform to non-Chinese ownership or face a nationwide ban. Finance experts called that time frame almost impossibly short for executing a sale, a complicated transaction that would require regulatory approval in multiple countries. The law gives the president the option to extend the divestment deadline by 90 days if the administration deems that the company has made "significant progress" toward a sale.
+Further complicating the prospects of a sale, China has said it would block the sale and export of TikTok's recommendation algorithm, one of the app's most critical components.
+The looming U.S. ban came as a major shock to many of TikTok's users in the United States, who have grown accustomed to using the app for daily entertainment or, in some cases, as the chief way to market their small businesses. Since the end of the Cold War decades ago, the U.S. government has rarely invoked national security to impinge on the operation of media platforms.
+U.S. officials who backed the ban say that TikTok collects a vast trove of data on its users, including their location and their contact networks, and that the company would have limited ability under Chinese law to withhold such data if Beijing officials requested it. TikTok executives argued vehemently that they have firewalled U.S. TikTok user data from the parent company in China, but they failed to convince the U.S. government.
+The push to ban the app came against the backdrop of a deepening U.S.-China rivalry, with Chinese technology companies facing closer scrutiny in Washington than similar firms based in other countries.
+Rep. Raja Krishnamoorthi (D-Illinois), who co-introduced the bill in Congress, said in a statement that the opinion affirms lawmakers' conclusion that TikTok "is a national security threat that cannot be mitigated through any other means than divestiture."
+TikTok filed its legal challenge against the Justice Department in May, and a group of TikTok creators followed with a parallel lawsuit.
+The Justice Department and TikTok presented their cases in September in the federal Court of Appeals for the D.C. Circuit. While Srinivasan noted at the hearing that there would be "serious First Amendment concerns" if such a case involved a purely domestic company, the judges said there was legal precedent for national security concerns to override free-speech considerations.
+In a separate legal case, more than a dozen state attorneys general filed a lawsuit in October accusing TikTok of harming the well-being of children by using addictive product features that keep them hooked on the platform. TikTok said in a statement that it strongly disagreed with the claims.
+Aaron Schaffer, Ann Marimow and David Nakamura contributed to this report.
+
+Subject: Cold War; Bans; Nominations; Attorneys general; National security; Regulatory approval; Social networks; Freedom of speech; Speeches; Political campaigns; Presidents; Court hearings & proceedings; False information; Law; First Amendment-US; Judges & magistrates
+
+Business indexing term: Subject: Regulatory approval Social networks
+
+Location: United States--US; China
+
+People: Trump, Donald J
+
+Company / organization: Name: TikTok Inc; NAICS: 518210; Name: Bytedance Ltd; NAICS: 513210, 518210
+
+Title: Ban or sale of TikTok upheld
+
+Publication title: The Washington Post; Washington, D.C.
+
+First page: A.1
+
+Publication year: 2024
+
+Publication date: Dec 7, 2024
+
+Section: A-Section
+
+Publisher: WP Company LLC d/b/a The Washington Post
+
+Place of publication: Washington, D.C.
+
+Country of publication: United States, Washington, D.C.
+
+Publication subject: General Interest Periodicals--United States
+
+ISSN: 01908286
+
+Source type: Newspaper
+
+Language of publication: English
+
+Document type: News
+
+ProQuest document ID: 3141608203
+
+Document URL: https://www.proquest.com/globalnews/newspapers/ban-sale-tiktok-upheld/docview/3141608203/sem-2?accountid=9703
+
+Copyright: Copyright WP Company LLC d/b/a The Washington Post Dec 7, 2024
+
+Last updated: 2024-12-07
+
+Database: ProQuest One Academic
+
+____________________________________________________________
+
+Contact us at: http://about.proquest.com/go/pqissupportcontact
+Database copyright © 2024 ProQuest LLC. All rights reserved.
+Terms and Conditions: https://www.proquest.com/info/termsAndConditions
